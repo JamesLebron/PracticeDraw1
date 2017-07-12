@@ -1,30 +1,3 @@
-![](images/icon.png)
-
-HenCoder 绘制 1 练习项目
-===
-
-### 这是什么？
-
-这不是一个独立使用的项目，它是 [HenCoder Android 开发进阶：UI 1-1 绘制基础](http://hencoder.com/ui-1-1) 的配套练习项目。
-
-### 怎么用？
-
-项目是一个可以直接运行的 Android App 项目，项目运行后，在手机上打开是这样的：
-
-![](images/preview.png)
-
-工程下有一个 `/practice` 目录：
-
-![](images/project_practice.png)
-
-你要做的是就是，在 `/practice` 下的每一个 `PracticeXxxView.java` 文件中写代码，绘制出和页面上半部分相同的效果。例如写 `PracticeDrawColorView.java` 以绘制出 "drawColor()" 标签下的黄色涂色效果。就像这样：
-
-![](images/preview_after.png)
-
-> 当然，没必要做得和示例一毛一样。这是一个练习，而不是一个超级模仿秀，关键是把技能掌握。
-
-练习做完，绘制第一期分享的内容也就掌握得差不多了。
------------------------------------------------------------
 
 #Android开发进阶:自定义View 1-1 绘制基础(自我总结和练习感悟) 
 #原文地址:[Android 开发进阶: 自定义 View 1-1 绘制基础](https://mp.weixin.qq.com/s?__biz=MzIwNTczNTY0NA==&mid=2247483657&idx=1&sn=0e3a9f84d9924ef4125c885592dbb843&chksm=972d12baa05a9bac18af5d335d65eba9b71146a9fec143be6ecf62d4a4bd2e7179c726cdbb81&mpshare=1&scene=1&srcid=07103TebqK8ayqL65sFM10aG&key=2872d7939faa95a4746f02817e96c6a1eb3d50ffa721de271927326d3f89f9d76134ce490ee10917c24434ccd1d80bd50cdb6fc724f8cd642c125bedb9bb15ae60355472d73d8a8d2ae254af35799487&ascene=0&uin=NjM2OTY1&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=FaWZgAC6HjXFxVzB307KYZzsfTzz3EzqIsGyEl40QcY%3D##)
