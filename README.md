@@ -1,6 +1,6 @@
 
-#Android开发进阶:自定义View 1-1 绘制基础(自我总结和练习感悟) 
-#原文地址:[Android 开发进阶: 自定义 View 1-1 绘制基础](https://mp.weixin.qq.com/s?__biz=MzIwNTczNTY0NA==&mid=2247483657&idx=1&sn=0e3a9f84d9924ef4125c885592dbb843&chksm=972d12baa05a9bac18af5d335d65eba9b71146a9fec143be6ecf62d4a4bd2e7179c726cdbb81&mpshare=1&scene=1&srcid=07103TebqK8ayqL65sFM10aG&key=2872d7939faa95a4746f02817e96c6a1eb3d50ffa721de271927326d3f89f9d76134ce490ee10917c24434ccd1d80bd50cdb6fc724f8cd642c125bedb9bb15ae60355472d73d8a8d2ae254af35799487&ascene=0&uin=NjM2OTY1&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=FaWZgAC6HjXFxVzB307KYZzsfTzz3EzqIsGyEl40QcY%3D##)
+# Android开发进阶:自定义View 1-1 绘制基础(自我总结和练习感悟) 
+# 原文地址:[Android 开发进阶: 自定义 View 1-1 绘制基础](https://mp.weixin.qq.com/s?__biz=MzIwNTczNTY0NA==&mid=2247483657&idx=1&sn=0e3a9f84d9924ef4125c885592dbb843&chksm=972d12baa05a9bac18af5d335d65eba9b71146a9fec143be6ecf62d4a4bd2e7179c726cdbb81&mpshare=1&scene=1&srcid=07103TebqK8ayqL65sFM10aG&key=2872d7939faa95a4746f02817e96c6a1eb3d50ffa721de271927326d3f89f9d76134ce490ee10917c24434ccd1d80bd50cdb6fc724f8cd642c125bedb9bb15ae60355472d73d8a8d2ae254af35799487&ascene=0&uin=NjM2OTY1&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=FaWZgAC6HjXFxVzB307KYZzsfTzz3EzqIsGyEl40QcY%3D##)
 ## 1.自定义绘制知识的四个级别
  * Canvas 的 drawXXX() 系列方法及 Paint 最常见的使用
  * Paint 的完全攻略
